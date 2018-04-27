@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8BB-56B6
+
+ Directory of C:\Users\user1\Desktop\projx
+
+27-04-2018  12:07    <DIR>          .
+27-04-2018  12:07    <DIR>          ..
+27-04-2018  12:07               674 Hello.class
+27-04-2018  11:30               171 hello.java
+27-04-2018  10:52                 9 npr.txt
+27-04-2018  12:07                 0 red.txt
+               4 File(s)            854 bytes
+               2 Dir(s)  356,998,524,928 bytes free
